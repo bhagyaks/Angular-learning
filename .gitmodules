@@ -10,3 +10,4 @@
 [submodule "angular-signals"]
 	path = angular-signals
 	url = https://github.com/bhagyaks/angular-signals.git
+	branch = main
