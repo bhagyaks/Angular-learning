@@ -1,0 +1,3 @@
+[submodule "angular-data-binding"]
+	path = angular-data-binding
+	url = https://github.com/bhagyaks/angular-data-binding.git
