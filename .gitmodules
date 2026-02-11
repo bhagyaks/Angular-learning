@@ -4,3 +4,6 @@
 [submodule "reactive-form"]
 	path = reactive-form
 	url = https://github.com/bhagyaks/Angular-Reactive-Form.git
+[submodule "angular-materials"]
+	path = angular-materials
+	url = https://github.com/bhagyaks/angular-materials.git
