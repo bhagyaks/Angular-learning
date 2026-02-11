@@ -1,12 +1,15 @@
 [submodule "angular-data-binding"]
 	path = angular-data-binding
 	url = https://github.com/bhagyaks/angular-data-binding.git
+	branch = main
 [submodule "reactive-form"]
 	path = reactive-form
 	url = https://github.com/bhagyaks/Angular-Reactive-Form.git
+	branch = main
 [submodule "angular-materials"]
 	path = angular-materials
 	url = https://github.com/bhagyaks/angular-materials.git
+	branch = main
 [submodule "angular-signals"]
 	path = angular-signals
 	url = https://github.com/bhagyaks/angular-signals.git
