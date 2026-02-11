@@ -7,3 +7,6 @@
 [submodule "angular-materials"]
 	path = angular-materials
 	url = https://github.com/bhagyaks/angular-materials.git
+[submodule "angular-signals"]
+	path = angular-signals
+	url = https://github.com/bhagyaks/angular-signals.git
